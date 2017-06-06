@@ -92,3 +92,4 @@ utworzoną według poniższego schematu:
 1. [Piotr Kawa i Szymon Świstun](https://github.com/Pkawa/Twitter-rails). [OurOwnTwitter](https://ourowntwitter.herokuapp.com/)
 1. [Kamil Gniazdowski i Mikołaj Piecuch](https://github.com/mikolajpiecuch/BlaBlaRails)
 1. [Mateusz Knitter](https://github.com/supperbull/antywirpak)
+1. [Formela, Bartosz](https://github.com/Formeister/ASI-Egzamin). [ZdarzyłoSięDzisiaj](https://zdarzylosiedzisiaj2.herokuapp.com/) (Heroku)
