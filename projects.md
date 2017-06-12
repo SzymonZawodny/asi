@@ -94,3 +94,4 @@ utworzoną według poniższego schematu:
 1. [Mateusz Knitter](https://github.com/supperbull/antywirpak)
 1. [Formela, Bartosz](https://github.com/Formeister/ASI-Egzamin). [ZdarzyłoSięDzisiaj](https://zdarzylosiedzisiaj2.herokuapp.com/) (Heroku)
 1. [Radomski, Artur](https://github.com/arturadom/ASI_zaliczenie). [Tablica ogłoszeń](https://glacial-castle-34430.herokuapp.com) (Heroku, Cloudinary)
+1. [Zawodny, Szymon i Walendzewicz Daniel](https://github.com/SzymonZawodny/asi-projekty-master). [Lista pracowników](http://projekt-zespolowy-rails.herokuapp.com/teachers) 
